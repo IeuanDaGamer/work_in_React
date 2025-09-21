@@ -101,8 +101,10 @@
 
 *Приклад результата роботи:*  
 ![Результат роботи Tic-Tac-Toe](./screenshot/Tic-Tac-Toe/Screenshot_3.png)
+
 *Приклад результата роботи:*  
 ![Результат роботи Tic-Tac-Toe](./screenshot/Tic-Tac-Toe/Screenshot_4.png)
+
 *Приклад результата роботи:*  
 ![Результат роботи Tic-Tac-Toe](./screenshot/Tic-Tac-Toe/Screenshot_5.png)
 
@@ -118,7 +120,7 @@
     повернутися на будь-який з них.
 
 *Приклад результата роботи:*  
-![Результат роботи Tic-Tac-Toe](./screenshot/Tic-Tac-Toe/screenshot7.png)
+![Результат роботи Tic-Tac-Toe](./screenshot/Tic-Tac-Toe/Screenshot_6.png)
 
 ## Візуальне оформлення
 
