@@ -120,7 +120,7 @@
     повернутися на будь-який з них.
 
 *Приклад результата роботи:*  
-![Результат роботи Tic-Tac-Toe](./screenshot/Tic-Tac-Toe/Screenshot_6.png)
+![Результат роботи Tic-Tac-Toe](./screenshot/Tic-Tac-Toe/Screenshot_7.png)
 
 ## Візуальне оформлення
 
