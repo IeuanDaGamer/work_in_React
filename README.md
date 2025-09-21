@@ -67,8 +67,8 @@
 *Приклад коду (.css) Click_time-компонента::*  
 ![Click_time компонент](./screenshot/QuickStart/click_time2.png)
 
-*Приклад роботи List-компонента:*  
-![Click_time компонент](./screenshot/QuickStart/click_time.png)
+*Приклад роботи Click_time-компонента:*  
+![Click_time компонент](./screenshot/QuickStart/click_time3.png)
 
 ## Наступний пройдений розділ **"Tutorial: Tic-Tac-Toe"**
 
