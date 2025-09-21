@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 22px;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 20px;
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+h4 {
+  margin-top: 0;
+  font-size: 16px;
+}
+
+h5 {
+  margin-top: 0;
+  font-size: 14px;
+}
+
+h6 {
+  margin-top: 0;
+  font-size: 12px;
+}
+
+code {
+  font-size: 1.2em;
+}
+
+ul {
+  padding-inline-start: 20px;
+}
+
+.grocery-list {
+  background-color: #f8f8f8;
+  padding: 10px 15px;
+  border-radius: 8px;
+  width: 250px;
+}
+
+.grocery-item {
+  padding: 4px 0;
+  transition: background 0.2s ease, transform 0.2s ease;
+  cursor: default;
+}
+
+.grocery-item:hover {
+  background-color: #e0e0e0;
+  transform: scale(1.03);
+}
